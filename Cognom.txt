@@ -1,2 +1,10 @@
+<<<<<<< HEAD
+Argente
+user1
+=======
 Argente Pepe
+<<<<<<< HEAD
 usuari2
+=======
+>>>>>>> 3eda53b8ecc8323db3bdf6e3c5d7b6b61b825cb5
+>>>>>>> 79db7f129f468c726e5885408a5b1f98c98bb374
